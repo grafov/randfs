@@ -1,6 +1,6 @@
 # randfs: file and directory tree generator for Go
 
-*Status: WIP, library design in progress, no ready for use API yet*
+*Status: WIP, library design in progress, no ready for use code yet!*
 
 The purpose of the library is help with testing of applications that
 deal with large file trees. Also it could be useful for filesystems
